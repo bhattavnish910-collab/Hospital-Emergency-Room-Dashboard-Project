@@ -13,23 +13,38 @@ Patient Admission Date Analysis
 
 ## Tools and Skills USed.
 Microsoft Excel
+<br>
 Pivot Tables
+<br>
 Pivot Charts
+<br>
 Slicers
+<br>
 Data Cleaning
+<br>
 Report Connection
+<br>
 Link
+<br>
 KPIs Cards
+<br>
 Power Query
+<br>
 Visulisation
+<br>
 Interactive Dashboard project Design.
 
 ## Dashboard Features
 Interactive Filters and Slices
+<br>
 Patient Demographic analysis
+<br>
 Wait-Time analysis
+<br>
 Patient Satisfaction analysis
+<br>
 Referral analysis
+<br>
 Monthly patient admission analysis
 
 ## Objectives
