@@ -51,7 +51,11 @@ Monthly patient admission analysis
 The main objective of this project is to transform hospital emergency data into an easy-to-understand interactive dashboard that can help stakeholders monitor patient-related KPIs and make data-driven decisions.
 I created this project  because to improve  provide useful insights. This dashboard will help stakeholders monitor , analyze and make better decisions for managing patients and improving services.
 <img width="1858" height="667" alt="Screenshot 2026-09-14 201541" src="https://github.com/user-attachments/assets/8be4d986-75e0-43eb-97dd-d8eddedd0428" />
+
+
 <img width="1850" height="660" alt="Screenshot 2026-09-14 202612" src="https://github.com/user-attachments/assets/452ac04c-e6e8-4ae7-aefb-564b10ddb9e0" />
+
+
 <img width="1847" height="886" alt="Screenshot 2026-09-09 200609" src="https://github.com/user-attachments/assets/5f761dec-e02d-44b6-8b22-c45aa7e000f8" />
 
 https://docs.google.com/spreadsheets/d/1cCHC9okxzFTwEYdjHxrjSO1ZqzmRaIki/edit?usp=drive_link&ouid=104271092265399067255&rtpof=true&sd=true
